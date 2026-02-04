@@ -1,0 +1,64 @@
+---
+interface Props {
+  currentLang: "es" | "en";
+}
+
+const { currentLang } = Astro.props;
+---
+
+<nav class="language-switcher no-print">
+  <a
+    href="/"
+    class:list={[{ active: currentLang === "es" }]}
+    title="Ver en Español"
+  >
+    ES
+  </a>
+  <span>|</span>
+  <a
+    href="/en"
+    class:list={[{ active: currentLang === "en" }]}
+    title="View in English"
+  >
+    EN
+  </a>
+</nav>
+
+<style>
+  .language-switcher {
+    position: fixed;
+    top: 16px;
+    right: 16px;
+    display: flex;
+    gap: 8px;
+    font-size: 0.75rem;
+    z-index: 100;
+  }
+
+  .language-switcher a {
+    color: #666;
+    padding: 4px 8px;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+  }
+
+  .language-switcher a:hover {
+    background: #f0f0f0;
+    color: #333;
+  }
+
+  .language-switcher a.active {
+    background: #333;
+    color: #fff;
+  }
+
+  .language-switcher span {
+    color: #ccc;
+  }
+
+  @media print {
+    .language-switcher {
+      display: none;
+    }
+  }
+</style>

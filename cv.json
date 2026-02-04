@@ -1,0 +1,384 @@
+{
+  "basics": {
+    "name": "Herwing Eduardo Vázquez Macías",
+    "label": "Junior Full Stack Developer | DevOps & AI Enthusiast",
+    "image": "/me.webp",
+    "email": "herwingx@gmail.com",
+    "phone": "+52 9614603593",
+    "url": "https://herwingx.dev",
+    "summary": "Analista de TI con 2 años de experiencia en gestión de infraestructura y optimización de sistemas. Actualmente enfocado en el desarrollo Full Stack y la cultura DevOps, combinando la administración de servidores con la creación de interfaces modernas en Tailwind CSS. Entusiasta de la Inteligencia Artificial y la automatización, con capacidad para integrar herramientas de IA en flujos de trabajo de desarrollo y despliegue de servicios.",
+    "location": {
+      "address": "",
+      "postalCode": "08820",
+      "city": "Tuxtla Gutiérrez",
+      "countryCode": "MX",
+      "region": "México"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "herwingx",
+        "url": "https://linkedin.com/in/herwingx"
+      },
+      {
+        "network": "X",
+        "username": "herwingx",
+        "url": "https://x.com/herwingx"
+      },
+      {
+        "network": "GitHub",
+        "username": "herwingx",
+        "url": "https://github.com/herwingx"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Linea Digital",
+      "position": "Analista de TI",
+      "url": "https://linea-digital.com",
+      "startDate": "03-06-2023",
+      "endDate": null,
+      "summary": "Analista de TI en una empresa Distribuidora autorizada de Telcel. Encargado de la gestión de la infraestructura de TI y la implementación de nuevas tecnologías.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Intituto Tecnologico de Comitan",
+      "url": "https://comitan.tecnm.mx/",
+      "area": "Ingeniero en Sistemas Computacionales",
+      "studyType": "Bachelor",
+      "startDate": "2023-08-01",
+      "endDate": "2027-06-01",
+      "score": "9.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "SSG",
+        "Performance"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "Express",
+      "level": "Intermedio",
+      "keywords": [
+        "Backend",
+        "Node.js",
+        "API",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermedio",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermedio",
+      "keywords": [
+        "DevOps",
+        "Contenedores",
+        "Virtualización",
+        "Infraestructura"
+      ]
+    },
+    {
+      "name": "Postman",
+      "level": "Intermedio",
+      "keywords": [
+        "API Testing",
+        "Backend",
+        "Desarrollo"
+      ]
+    },
+    {
+      "name": "Bash",
+      "level": "Intermedio",
+      "keywords": [
+        "Terminal",
+        "Scripting",
+        "Automatización",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Vim",
+      "level": "Intermedio",
+      "keywords": [
+        "Terminal",
+        "Editor",
+        "Productividad"
+      ]
+    },
+    {
+      "name": "Neovim",
+      "level": "Intermedio",
+      "keywords": [
+        "Terminal",
+        "Editor",
+        "Productividad",
+        "Lua"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Intermedio",
+      "keywords": [
+        "OS",
+        "Servidor",
+        "Administración de Sistemas"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermedio",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermedio",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "CI/CD",
+        "Git"
+      ]
+    },
+    {
+      "name": "VSCode",
+      "level": "Intermedio",
+      "keywords": [
+        "Editor",
+        "IDE",
+        "Productividad",
+        "Desarrollo"
+      ]
+    },
+    {
+      "name": "Figma",
+      "level": "Intermedio",
+      "keywords": [
+        "Diseño",
+        "UI/UX",
+        "Prototipado"
+      ]
+    },
+    {
+      "name": "Notion",
+      "level": "Intermedio",
+      "keywords": [
+        "Productividad",
+        "Documentación",
+        "Gestión de Proyectos"
+      ]
+    },
+    {
+      "name": "Google Cloud",
+      "level": "Intermedio",
+      "keywords": [
+        "Cloud",
+        "DevOps",
+        "Infraestructura",
+        "GCP"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "level": "Intermedio",
+      "keywords": [
+        "Cloud",
+        "CDN",
+        "DNS",
+        "Seguridad"
+      ]
+    },
+    {
+      "name": "GitHub Actions",
+      "level": "Intermedio",
+      "keywords": [
+        "CI/CD",
+        "DevOps",
+        "Automatización",
+        "GitHub"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "B1"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Inventario Linea Digital",
+      "isActive": true,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": [
+        "Vue.js",
+        "Express",
+        "Soporte Tecnico"
+      ],
+      "url": "https://github.com/herwingx/innventario-ti-ld",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "Web Marketing Linea Digital",
+      "isActive": true,
+      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "highlights": [
+        "Brevo",
+        "Astro",
+        "Contentful",
+        "Gemini API"
+      ],
+      "url": "https://github.com/herwingx/linea-digital-astro",
+      "github": "https://github.com/herwingx/linea-digital-astro"
+    }
+  ]
+}

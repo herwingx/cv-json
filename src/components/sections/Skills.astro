@@ -1,0 +1,81 @@
+---
+import Section from "../Section.astro";
+import { skills } from "@cv";
+
+// Mapeo de nombres de skills a IDs de skillicons.dev
+const SKILL_ICON_IDS: Record<string, string> = {
+  HTML: "html",
+  CSS: "css",
+  JavaScript: "js",
+  React: "react",
+  Astro: "astro",
+  Tailwind: "tailwind",
+  Bootstrap: "bootstrap",
+  Node: "nodejs",
+  Express: "express",
+  MySQL: "mysql",
+  Docker: "docker",
+  Postman: "postman",
+  Bash: "bash",
+  Vim: "vim",
+  Neovim: "neovim",
+  Linux: "linux",
+  Git: "git",
+  GitHub: "github",
+  VSCode: "vscode",
+  Figma: "figma",
+  Notion: "notion",
+  "Google Cloud": "gcp",
+  Cloudflare: "cloudflare",
+  "GitHub Actions": "githubactions",
+};
+
+const getIconUrl = (skillName: string) => {
+  const iconId = SKILL_ICON_IDS[skillName];
+  if (!iconId) return null;
+  return `https://skillicons.dev/icons?i=${iconId}&theme=light`;
+};
+---
+
+<Section title="Habilidades">
+  <ul>
+    {
+      skills.map(({ name }) => {
+        const iconUrl = getIconUrl(name);
+
+        return (
+          <li>
+            {iconUrl && <img src={iconUrl} alt={name} width="20" height="20" />}
+            <span>{name}</span>
+          </li>
+        );
+      })
+    }
+  </ul>
+</Section>
+
+<style>
+  ul {
+    display: inline-flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  li {
+    align-items: center;
+    background: #eee;
+    border-radius: 6px;
+    color: black;
+    display: flex;
+    font-size: 0.8rem;
+    font-weight: 500;
+    gap: 4px;
+    padding: 0.2rem 0.6rem;
+  }
+
+  li img {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+  }
+</style>

@@ -1,0 +1,43 @@
+---
+import LayoutEN from "@/layouts/LayoutEN.astro";
+
+import About from "@/components/sections/en/About.astro";
+import Education from "@/components/sections/en/Education.astro";
+import Experience from "@/components/sections/en/Experience.astro";
+import Hero from "@/components/sections/en/Hero.astro";
+import Projects from "@/components/sections/en/Projects.astro";
+import Skills from "@/components/sections/en/Skills.astro";
+import KeyboardManager from "@/components/en/KeyboardManager.astro";
+import LanguageSwitcher from "@/components/LanguageSwitcher.astro";
+
+import { basics } from "@cv-en";
+const { name, label } = basics;
+---
+
+<LayoutEN title={`${name}'s Portfolio - ${label}`}>
+  <LanguageSwitcher currentLang="en" />
+  <main>
+    <Hero />
+    <About />
+    <Experience />
+    <Education />
+    <Projects />
+    <Skills />
+  </main>
+
+  <KeyboardManager />
+</LayoutEN>
+
+<style>
+  main {
+    padding: 4rem;
+    margin: auto;
+    width: 100%;
+  }
+
+  @media (width <= 700px) {
+    main {
+      padding: 2rem;
+    }
+  }
+</style>

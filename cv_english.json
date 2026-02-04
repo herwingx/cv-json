@@ -1,0 +1,331 @@
+{
+  "basics": {
+    "name": "Herwing Eduardo Vázquez Macías",
+    "label": "Junior Full Stack Developer | DevOps & AI Enthusiast",
+    "image": "/me.webp",
+    "email": "herwingx@gmail.com",
+    "phone": "+52 9614603593",
+    "url": "https://herwingx.dev",
+    "summary": "IT Analyst with 2 years of experience in infrastructure management and system optimization. Currently focused on Full Stack development and DevOps culture, combining server administration with modern interface creation using Tailwind CSS. AI and automation enthusiast, capable of integrating AI tools into development workflows and service deployment.",
+    "location": {
+      "address": "",
+      "postalCode": "08820",
+      "city": "Tuxtla Gutiérrez",
+      "countryCode": "MX",
+      "region": "Mexico"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "herwingx",
+        "url": "https://linkedin.com/in/herwingx"
+      },
+      {
+        "network": "X",
+        "username": "herwingx",
+        "url": "https://x.com/herwingx"
+      },
+      {
+        "network": "GitHub",
+        "username": "herwingx",
+        "url": "https://github.com/herwingx"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Linea Digital",
+      "position": "IT Analyst",
+      "url": "https://linea-digital.com",
+      "startDate": "2023-06-03",
+      "endDate": null,
+      "summary": "IT Analyst at an authorized Telcel Distributor company. Responsible for IT infrastructure management and implementation of new technologies.",
+      "highlights": [
+        "Infrastructure Management",
+        "Technical Support",
+        "System Optimization"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Comitán",
+      "url": "https://comitan.tecnm.mx/",
+      "area": "Computer Systems Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2023-08-01",
+      "endDate": "2027-06-01",
+      "score": "9.0",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "SSG",
+        "Performance"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "Express",
+      "level": "Intermediate",
+      "keywords": [
+        "Backend",
+        "Node.js",
+        "API",
+        "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "keywords": [
+        "DevOps",
+        "Containers",
+        "Virtualization",
+        "Infrastructure"
+      ]
+    },
+    {
+      "name": "Postman",
+      "level": "Intermediate",
+      "keywords": [
+        "API Testing",
+        "Backend",
+        "Development"
+      ]
+    },
+    {
+      "name": "Bash",
+      "level": "Intermediate",
+      "keywords": [
+        "Terminal",
+        "Scripting",
+        "Automation",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Vim",
+      "level": "Intermediate",
+      "keywords": [
+        "Terminal",
+        "Editor",
+        "Productivity"
+      ]
+    },
+    {
+      "name": "Neovim",
+      "level": "Intermediate",
+      "keywords": [
+        "Terminal",
+        "Editor",
+        "Productivity",
+        "Lua"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Intermediate",
+      "keywords": [
+        "OS",
+        "Server",
+        "System Administration"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "CI/CD",
+        "Git"
+      ]
+    },
+    {
+      "name": "VSCode",
+      "level": "Intermediate",
+      "keywords": [
+        "Editor",
+        "IDE",
+        "Productivity",
+        "Development"
+      ]
+    },
+    {
+      "name": "Figma",
+      "level": "Intermediate",
+      "keywords": [
+        "Design",
+        "UI/UX",
+        "Prototyping"
+      ]
+    },
+    {
+      "name": "Notion",
+      "level": "Intermediate",
+      "keywords": [
+        "Productivity",
+        "Documentation",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Google Cloud",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud",
+        "DevOps",
+        "Infrastructure",
+        "GCP"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud",
+        "CDN",
+        "DNS",
+        "Security"
+      ]
+    },
+    {
+      "name": "GitHub Actions",
+      "level": "Intermediate",
+      "keywords": [
+        "CI/CD",
+        "DevOps",
+        "Automation",
+        "GitHub"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "B1"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Linea Digital Inventory",
+      "isActive": true,
+      "description": "IT inventory management system for equipment and assets tracking",
+      "highlights": [
+        "Vue.js",
+        "Express",
+        "Technical Support"
+      ],
+      "url": "https://github.com/herwingx/innventario-ti-ld",
+      "github": "https://github.com/herwingx/innventario-ti-ld"
+    },
+    {
+      "name": "Linea Digital Marketing Website",
+      "isActive": true,
+      "description": "Modern marketing website with CMS integration and AI features",
+      "highlights": [
+        "Brevo",
+        "Astro",
+        "Contentful",
+        "Gemini API"
+      ],
+      "url": "https://adventjs.dev",
+      "github": "https://github.com/herwingx/linea-digital-astro"
+    }
+  ]
+}
