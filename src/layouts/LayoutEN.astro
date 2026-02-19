@@ -1,4 +1,5 @@
 ---
+import Analytics from '@vercel/analytics/astro'
 import { basics } from "@cv-en";
 
 interface Props {
@@ -32,6 +33,7 @@ const { image, summary, url } = basics;
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={summary} />
     <meta name="twitter:image" content="" />
+    <Analytics />
   </head>
   <body>
     <slot />
