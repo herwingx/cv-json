@@ -6,7 +6,7 @@
     "email": "jobs@herwingx.com",
     "phone": "+52 9614603593",
     "url": "https://herwingx.dev",
-    "summary": "IT Analyst with 2 years of experience in infrastructure management and system optimization. Currently focused on Full Stack development and DevOps culture, combining server administration with modern interface creation using Tailwind CSS. AI and automation enthusiast, capable of integrating AI tools into development workflows and service deployment.",
+    "summary": "IT Analyst with 2 years of experience in infrastructure management and system optimization. Currently focused on Full Stack development and DevOps culture, combining server administration with modern interface creation using JavaScript frameworks like React, Vue.js and Astro, powered by Tailwind CSS. AI and automation enthusiast, with experience integrating AI tools and workflow automation platforms such as n8n into development and service deployment pipelines.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -48,6 +48,16 @@
     }
   ],
   "education": [
+    {
+      "institution": "CBTis 144",
+      "url": "",
+      "area": "Computer Equipment Support and Maintenance",
+      "studyType": "Technical Degree",
+      "startDate": "2014-08-01",
+      "endDate": "2017-06-01",
+      "score": "",
+      "courses": []
+    },
     {
       "institution": "Instituto Tecnológico de Comitán",
       "url": "https://comitan.tecnm.mx/",
@@ -303,29 +313,46 @@
   ],
   "projects": [
     {
-      "name": "Linea Digital Inventory",
+      "name": "Linea Digital Website",
       "isActive": true,
-      "description": "IT inventory management system for equipment and assets tracking",
+      "description": "Marketing website for Línea Digital, built with Astro, Tailwind CSS and React, integrated with Contentful and Gemini API for AI-powered features.",
       "highlights": [
-        "Vue.js",
-        "Express",
-        "Technical Support"
-      ],
-      "url": "https://github.com/herwingx/innventario-ti-ld",
-      "github": "https://github.com/herwingx/innventario-ti-ld"
-    },
-    {
-      "name": "Linea Digital Marketing Website",
-      "isActive": true,
-      "description": "Modern marketing website with CMS integration and AI features",
-      "highlights": [
-        "Brevo",
         "Astro",
+        "Tailwind CSS",
+        "React",
         "Contentful",
         "Gemini API"
       ],
-      "url": "https://adventjs.dev",
-      "github": "https://github.com/herwingx/linea-digital-astro"
+      "url": "https://linea-digital-astro-frontend.vercel.app",
+      "github": "https://github.com/linea-digital/linea-digital-astro"
+    },
+    {
+      "name": "Linea Digital IT Inventory",
+      "isActive": true,
+      "description": "IT inventory and technical support management system for Línea Digital, tracking assets, users and assignments.",
+      "highlights": [
+        "Vue.js",
+        "Node.js",
+        "Express",
+        "MySQL",
+        "Technical Support"
+      ],
+      "url": "https://github.com/linea-digital/inventario-ti-lds",
+      "github": "https://github.com/linea-digital/inventario-ti-lds"
+    },
+    {
+      "name": "Linea Digital E-commerce",
+      "isActive": true,
+      "description": "B2C e-commerce platform built in TypeScript on top of Evershop and customized for Línea Digital.",
+      "highlights": [
+        "TypeScript",
+        "E-commerce",
+        "Evershop",
+        "Frontend",
+        "API Integration"
+      ],
+      "url": "https://evershop.io/",
+      "github": "https://github.com/herwingx/ecommerce-linea-digital"
     }
   ]
 }

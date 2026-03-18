@@ -6,7 +6,7 @@
     "email": "jobs@herwingx.com",
     "phone": "+52 9614603593",
     "url": "https://herwingx.dev",
-    "summary": "Analista de TI con 2 años de experiencia en gestión de infraestructura y optimización de sistemas. Actualmente enfocado en el desarrollo Full Stack y la cultura DevOps, combinando la administración de servidores con la creación de interfaces modernas en Tailwind CSS. Entusiasta de la Inteligencia Artificial y la automatización, con capacidad para integrar herramientas de IA en flujos de trabajo de desarrollo y despliegue de servicios.",
+    "summary": "Analista de TI con 2 años de experiencia en gestión de infraestructura y optimización de sistemas. Actualmente enfocado en el desarrollo Full Stack y la cultura DevOps, combinando la administración de servidores con la creación de interfaces modernas con frameworks de JavaScript como React, Vue.js y Astro, potenciadas con Tailwind CSS. Entusiasta de la Inteligencia Artificial y la automatización, con capacidad para integrar herramientas de IA en flujos de trabajo de desarrollo y despliegue de servicios.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -59,6 +59,16 @@
     }
   ],
   "education": [
+    {
+      "institution": "CBTis 144",
+      "url": "",
+      "area": "Soporte y Mantenimiento de Equipo de Cómputo",
+      "studyType": "Carrera Técnica",
+      "startDate": "2014-08-01",
+      "endDate": "2017-06-01",
+      "score": "",
+      "courses": []
+    },
     {
       "institution": "Intituto Tecnologico de Comitan",
       "url": "https://comitan.tecnm.mx/",
@@ -356,29 +366,46 @@
   ],
   "projects": [
     {
-      "name": "Inventario Linea Digital",
+      "name": "Sitio Web Línea Digital",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Sitio web para Línea Digital, creado con Astro, Tailwind CSS y React, integrado con Contentful y la API de Gemini para funcionalidades de IA.",
       "highlights": [
-        "Vue.js",
-        "Express",
-        "Soporte Tecnico"
-      ],
-      "url": "https://github.com/herwingx/innventario-ti-ld",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "Web Marketing Linea Digital",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "Brevo",
         "Astro",
+        "Tailwind CSS",
+        "React",
         "Contentful",
         "Gemini API"
       ],
-      "url": "https://github.com/herwingx/linea-digital-astro",
-      "github": "https://github.com/herwingx/linea-digital-astro"
+      "url": "https://linea-digital-astro-frontend.vercel.app",
+      "github": "https://github.com/linea-digital/linea-digital-astro"
+    },
+    {
+      "name": "Inventario TI Línea Digital",
+      "isActive": true,
+      "description": "Sistema de gestión de inventario TI y soporte técnico para Línea Digital, controlando activos, usuarios y asignaciones.",
+      "highlights": [
+        "Vue.js",
+        "Node.js",
+        "Express",
+        "MySQL",
+        "Soporte Técnico"
+      ],
+      "url": "https://github.com/linea-digital/inventario-ti-lds",
+      "github": "https://github.com/linea-digital/inventario-ti-lds"
+    },
+    {
+      "name": "E-commerce Línea Digital",
+      "isActive": true,
+      "description": "Plataforma e-commerce B2C basada en TypeScript, construida sobre Evershop y adaptada a las necesidades de Línea Digital.",
+      "highlights": [
+        "TypeScript",
+        "E-commerce",
+        "Evershop",
+        "Frontend",
+        "API Integration"
+      ],
+      "url": "https://evershop.io/",
+      "github": "https://github.com/herwingx/ecommerce-linea-digital"
     }
   ]
 }
