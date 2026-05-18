@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Herwing Eduardo Vázquez Macías",
-    "label": "Junior Full Stack Developer | DevOps & AI Enthusiast",
+    "label": "Ing. Computer Systems | DevOps & AI Enthusiast",
     "image": "/me.webp",
-    "email": "jobs@herwingx.com",
+    "email": "me@herwingx.com",
     "phone": "+52 9612113829",
     "url": "https://herwingx.dev",
-    "summary": "IT Analyst with 2 years of experience in infrastructure management and system optimization. Currently focused on Full Stack development and DevOps culture, combining server administration with modern interface creation using JavaScript frameworks like React, Vue.js and Astro, powered by Tailwind CSS. AI and automation enthusiast, with experience integrating AI tools and workflow automation platforms such as n8n into development and service deployment pipelines.",
+    "summary": "Systems Engineer with experience in field technical support, computer equipment maintenance and IT network and infrastructure management. I complement on-site and remote support with Full Stack development, creating internal software solutions using modern frameworks like React, Vue.js and Astro. Passionate about DevOps culture, automation and Artificial Intelligence, integrating these technologies into development and systems administration workflows.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -39,11 +39,40 @@
       "url": "https://linea-digital.com",
       "startDate": "2023-06-03",
       "endDate": null,
-      "summary": "IT Analyst at an authorized Telcel Distributor company. Responsible for IT infrastructure management and implementation of new technologies.",
+      "summary": "IT Analyst at an authorized Telcel Distributor. Responsible for on-site and remote technical support, equipment maintenance, network and IT asset management. Development of multiple internal software solutions: corporate website, IT asset management system and e-commerce platform.",
       "highlights": [
-        "Infrastructure Management",
-        "Technical Support",
-        "System Optimization"
+        "On-site and remote technical support to users and sales advisors",
+        "Corrective and preventive maintenance of computer equipment",
+        "Network management: cabling, WiFi antennas and IP configuration",
+        "IT asset management (PCs, peripherals, monitors, IP addresses)",
+        "Development of internal asset management and support system",
+        "Technical documentation: manuals, notes and incident reports",
+        "Configuration of equipment, software, drivers and operating systems"
+      ]
+    },
+    {
+      "name": "Huipix Envíos",
+      "position": "Delivery Driver",
+      "url": "",
+      "startDate": "2023-08-01",
+      "endDate": "2024-05-01",
+      "summary": "Responsible for collecting and delivering packages on assigned routes, ensuring delivery deadlines and correct shipment management.",
+      "highlights": [
+        "Delivery route management",
+        "Customer service at delivery points"
+      ]
+    },
+    {
+      "name": "Tiendas Chedraui",
+      "position": "Checkout Supervisor",
+      "url": "https://chedraui.com.mx",
+      "startDate": "2022-03-01",
+      "endDate": "2023-03-01",
+      "summary": "Supervised the checkout area at a retail store, coordinating cashier staff and ensuring efficient customer service and proper cash handling.",
+      "highlights": [
+        "Cashier staff supervision",
+        "Cash control and register audits",
+        "Customer incident resolution"
       ]
     }
   ],
@@ -313,9 +342,9 @@
   ],
   "projects": [
     {
-      "name": "Linea Digital Website",
+      "name": "Linea Digital Corporate Website",
       "isActive": true,
-      "description": "Marketing website for Línea Digital, built with Astro, Tailwind CSS and React, integrated with Contentful and Gemini API for AI-powered features.",
+      "description": "Development of a corporate website with modern architecture, headless CMS integration and AI-powered features to enhance user experience.",
       "highlights": [
         "Astro",
         "Tailwind CSS",
@@ -327,9 +356,9 @@
       "github": "https://github.com/linea-digital/linea-digital-astro"
     },
     {
-      "name": "Linea Digital IT Inventory",
+      "name": "Linea Digital IT Inventory System",
       "isActive": true,
-      "description": "IT inventory and technical support management system for Línea Digital, tracking assets, users and assignments.",
+      "description": "Development of an internal web system for IT asset and technical support management, with modules for assignment control, user administration and incident tracking.",
       "highlights": [
         "Vue.js",
         "Node.js",
@@ -341,9 +370,9 @@
       "github": "https://github.com/linea-digital/inventario-ti-lds"
     },
     {
-      "name": "Linea Digital E-commerce",
+      "name": "Linea Digital E-commerce Platform",
       "isActive": true,
-      "description": "B2C e-commerce platform built in TypeScript on top of Evershop and customized for Línea Digital.",
+      "description": "Development of a B2C e-commerce platform with full frontend customization, product catalog integration and payment gateway.",
       "highlights": [
         "TypeScript",
         "E-commerce",
