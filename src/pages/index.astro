@@ -20,6 +20,7 @@ const { name, label } = basics;
     <Hero />
     <About />
     <Experience />
+    <div class="print-page-break"></div>
     <Education />
     <Projects />
     <Skills />
@@ -38,6 +39,15 @@ const { name, label } = basics;
   @media (width <= 700px) {
     main {
       padding: 2rem;
+    }
+  }
+
+  @media print {
+    main {
+      padding: 3rem;
+    }
+    .print-page-break {
+      break-before: page;
     }
   }
 </style>
