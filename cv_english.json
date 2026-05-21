@@ -364,7 +364,7 @@
     {
       "name": "Linea Digital Corporate Website",
       "isActive": true,
-      "description": "Design and development of the main corporate website, implementing a modern architecture and a headless CMS that streamlined content management. AI features were integrated to enrich user experience and modernize the digital presence.",
+      "description": "Corporate website with a headless CMS and integrated AI. Modernized digital presence and streamlined internal content editing.",
       "highlights": [
         "Astro",
         "Tailwind CSS",
@@ -378,7 +378,7 @@
     {
       "name": "Linea Digital IT Inventory System",
       "isActive": true,
-      "description": "End-to-end development of an internal web system to centralize IT asset management and technical support. Optimized asset tracking and incident tracking, significantly improving the department's response times.",
+      "description": "Internal IT asset management system. Centralized equipment tracking and drastically reduced technical support response times.",
       "highlights": [
         "Vue.js",
         "Node.js",
@@ -392,7 +392,7 @@
     {
       "name": "Linea Digital E-commerce Platform",
       "isActive": true,
-      "description": "Development of the company's B2C digital sales channel, digitizing the product catalog and opening a new revenue stream with a secure payment gateway and a conversion-focused frontend.",
+      "description": "B2C platform that opened a new digital sales channel. Conversion-optimized frontend with a secure payment gateway.",
       "highlights": [
         "TypeScript",
         "E-commerce",
@@ -406,7 +406,7 @@
     {
       "name": "Omnichannel Automated Recruitment System",
       "isActive": true,
-      "description": "Automation of the recruitment funnel with n8n, centralizing omnichannel communication. Integrated WhatsApp Cloud API, Chatwoot, and Odoo ERP to streamline candidate filtering and talent management.",
+      "description": "Recruitment funnel automation powered by n8n. Integrated WhatsApp, Chatwoot, and Odoo, accelerating candidate filtering and management.",
       "highlights": [
         "n8n (Workflows & Automation)",
         "WhatsApp Cloud API (Meta)",

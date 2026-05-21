@@ -419,7 +419,7 @@
     {
       "name": "Sitio Web Línea Digital",
       "isActive": true,
-      "description": "Diseño y desarrollo del sitio web corporativo principal, implementando arquitectura moderna y CMS headless que facilitó la gestión de contenido. Se integró IA para enriquecer la experiencia de usuario y modernizar la presencia digital.",
+      "description": "Web corporativa con CMS headless e IA integrada. Modernizó la presencia digital y agilizó la edición interna de contenidos.",
       "highlights": [
         "Astro",
         "Tailwind CSS",
@@ -433,7 +433,7 @@
     {
       "name": "Inventario TI Línea Digital",
       "isActive": true,
-      "description": "Desarrollo integral de un sistema interno para centralizar la gestión de activos TI y soporte técnico. Se optimizó el control de asignaciones y el seguimiento de incidencias, mejorando los tiempos de respuesta del departamento.",
+      "description": "Sistema interno de gestión de activos TI. Centralizó el control de equipos y redujo drásticamente los tiempos de soporte técnico.",
       "highlights": [
         "Vue.js",
         "Node.js",
@@ -447,7 +447,7 @@
     {
       "name": "E-commerce Línea Digital",
       "isActive": true,
-      "description": "Desarrollo del canal de ventas digital B2C de la empresa, digitalizando el catálogo de productos y abriendo una nueva vía de ingresos con pasarela de pagos segura y un frontend enfocado a la conversión.",
+      "description": "Plataforma B2C que abrió un nuevo canal de ventas digital. Frontend optimizado para conversión con pasarela de pagos segura.",
       "highlights": [
         "TypeScript",
         "E-commerce",
@@ -461,7 +461,7 @@
     {
       "name": "Sistema de Reclutamiento Automatizado Omnicanal",
       "isActive": true,
-      "description": "Automatización del embudo de reclutamiento con n8n, centralizando la comunicación omnicanal. Se integró WhatsApp Cloud API, Chatwoot y Odoo ERP para agilizar el filtrado de candidatos y la gestión de talento.",
+      "description": "Automatización del embudo de contratación con n8n. Integró WhatsApp, Chatwoot y Odoo, acelerando el filtrado y gestión de candidatos.",
       "highlights": [
         "n8n (Workflows & Automatización)",
         "WhatsApp Cloud API (Meta)",
