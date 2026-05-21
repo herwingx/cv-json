@@ -39,7 +39,7 @@
       "url": "https://linea-digital.com",
       "startDate": "2024-06-03",
       "endDate": null,
-      "summary": "IT Analyst at an authorized Telcel Distributor. Responsible for on-site and remote technical support, equipment maintenance, network and IT asset management. Development of multiple internal software solutions: corporate website, IT asset management system and e-commerce platform.",
+      "summary": "IT Analyst and internal Software Developer. Responsible for developing the company's digital ecosystem (E-commerce, corporate site, internal systems) and managing the technical infrastructure and branch networks.",
       "highlights": [
         "On-site and remote technical support to users and sales advisors",
         "Corrective and preventive maintenance of computer equipment",
@@ -69,7 +69,7 @@
       "url": "https://chedraui.com.mx",
       "startDate": "2022-03-01",
       "endDate": "2023-03-01",
-      "summary": "Supervised the checkout area at a retail store, coordinating cashier staff and ensuring efficient customer service and proper cash handling.",
+      "summary": "Leadership and supervision of a team of cashiers, ensuring efficient customer service, resolving point-of-sale incidents, and overseeing daily cash flow and control.",
       "highlights": [
         "Cashier staff supervision",
         "Cash control and register audits",
@@ -364,7 +364,7 @@
     {
       "name": "Linea Digital Corporate Website",
       "isActive": true,
-      "description": "Development of a corporate website with modern architecture, headless CMS integration and AI-powered features to enhance user experience.",
+      "description": "Design and development of the main corporate website, implementing a modern architecture and a headless CMS that streamlined content management. AI features were integrated to enrich user experience and modernize the digital presence.",
       "highlights": [
         "Astro",
         "Tailwind CSS",
@@ -378,7 +378,7 @@
     {
       "name": "Linea Digital IT Inventory System",
       "isActive": true,
-      "description": "Development of an internal web system for IT asset and technical support management, with modules for assignment control, user administration and incident tracking.",
+      "description": "End-to-end development of an internal web system to centralize IT asset management and technical support. Optimized asset tracking and incident tracking, significantly improving the department's response times.",
       "highlights": [
         "Vue.js",
         "Node.js",
@@ -392,7 +392,7 @@
     {
       "name": "Linea Digital E-commerce Platform",
       "isActive": true,
-      "description": "Development of a B2C e-commerce platform with full frontend customization, product catalog integration and payment gateway.",
+      "description": "Development of the company's B2C digital sales channel, digitizing the product catalog and opening a new revenue stream with a secure payment gateway and a conversion-focused frontend.",
       "highlights": [
         "TypeScript",
         "E-commerce",
@@ -406,7 +406,7 @@
     {
       "name": "Omnichannel Automated Recruitment System",
       "isActive": true,
-      "description": "End-to-end automation of the recruitment funnel using n8n as the core engine. Direct integration with WhatsApp Cloud API (Meta) and Chatwoot for omnichannel messaging, connecting Odoo (ERP) and multiple third-party tools (Cal.com, Tally.so) via webhooks and REST APIs.",
+      "description": "Automation of the recruitment funnel with n8n, centralizing omnichannel communication. Integrated WhatsApp Cloud API, Chatwoot, and Odoo ERP to streamline candidate filtering and talent management.",
       "highlights": [
         "n8n (Workflows & Automation)",
         "WhatsApp Cloud API (Meta)",
