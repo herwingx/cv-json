@@ -47,7 +47,8 @@
         "Gestión de activos de TI (PCs, periféricos, monitores, direcciones IP)",
         "Desarrollo del sistema interno de gestión de activos y soporte",
         "Documentación técnica: manuales, notas y reportes de incidencias",
-        "Configuración de equipos, software, drivers y sistemas operativos"
+        "Configuración de equipos, software, drivers y sistemas operativos",
+        "Desarrollo de un ecosistema de reclutamiento automatizado con n8n, integrando la API de WhatsApp (Meta), Chatwoot y Odoo para agilizar la contratación"
       ]
     },
     {
@@ -368,6 +369,25 @@
         "Automatización",
         "GitHub"
       ]
+    },
+    {
+      "name": "n8n",
+      "level": "Intermedio",
+      "keywords": [
+        "Automatización",
+        "Workflows",
+        "Integración de APIs",
+        "Webhooks"
+      ]
+    },
+    {
+      "name": "Meta Graph API",
+      "level": "Intermedio",
+      "keywords": [
+        "WhatsApp Cloud API",
+        "Integraciones",
+        "Backend"
+      ]
     }
   ],
   "languages": [
@@ -437,6 +457,20 @@
       ],
       "url": "https://evershop.io/",
       "github": "https://github.com/herwingx/ecommerce-linea-digital"
+    },
+    {
+      "name": "Sistema de Reclutamiento Automatizado Omnicanal",
+      "isActive": true,
+      "description": "Automatización integral del embudo de reclutamiento utilizando n8n como motor principal. Integración directa con WhatsApp Cloud API (Meta) y Chatwoot para mensajería omnicanal, conectando Odoo (ERP) y múltiples herramientas de terceros (Cal.com, Tally.so) mediante webhooks y APIs REST.",
+      "highlights": [
+        "n8n (Workflows & Automatización)",
+        "WhatsApp Cloud API (Meta)",
+        "Chatwoot (CRM Omnicanal)",
+        "Odoo 17 / Webhooks",
+        "Integración de APIs"
+      ],
+      "url": "",
+      "github": "https://github.com/herwingx/automatizacion-reclutamiento"
     }
   ]
 }
